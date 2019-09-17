@@ -1,0 +1,10 @@
+<application>
+  <component name="ProtobufSettings">
+    <option name="includePaths">
+      <list>
+        <option value="$USER_HOME$/fbsource/fbcode/magma/lte/gateway/c/oai/protos" />
+        <option value="$USER_HOME$/fbsource/fbcode/magma/lte/gateway/c/oai" />
+      </list>
+    </option>
+  </component>
+</application>
