@@ -2,7 +2,7 @@
 
 NOTE: To get CLion setting up the project properly, you should have the magma VM built using `make` and have it running using `make run`.
 
-This settings repository contains preferences to setup a remote connection to magma VM, so all the CMake building, tags and even the project run is done remotely rather than on the host.
+This settings repository contains preferences to setup a remote connection to magma VM, so all the CMake building, tags, libraries compilation are done remotely rather than on the host.
 
 ## How to
 
