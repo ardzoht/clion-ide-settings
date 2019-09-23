@@ -4,6 +4,8 @@
       <list>
         <option value="$USER_HOME$/fbsource/fbcode/magma/lte/gateway/c/oai/protos" />
         <option value="$USER_HOME$/fbsource/fbcode/magma/lte/gateway/c/oai" />
+        <option value="$USER_HOME$/fbsource/fbcode/magma/lte/gateway/c/oai/cmake-build-debug-oai/tasks/sgw/lte/gateway/c/oai/protos/protos" />
+        <option value="$USER_HOME$/fbsource/fbcode/magma/lte/gateway/c/oai/cmake-build-debug-oai/tasks/sgw/lte/gateway/c/oai/protos" />
       </list>
     </option>
   </component>
