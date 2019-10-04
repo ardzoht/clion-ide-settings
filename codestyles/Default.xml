@@ -17,6 +17,10 @@
     <option name="ALIGN_INIT_LIST_IN_COLUMNS" value="false" />
     <option name="SPACE_AFTER_STRUCTURES_RBRACE" value="false" />
     <option name="SPACE_BEFORE_PROTOCOLS_BRACKETS" value="false" />
+    <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+    <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
     <option name="KEEP_BLANK_LINES_BEFORE_END" value="1" />
     <option name="HEADER_GUARD_STYLE_PATTERN" value="${PROJECT_NAME}_${PROJECT_REL_PATH}_${FILE_NAME}_${EXT}_" />
   </Objective-C>
@@ -32,9 +36,6 @@
       <rule entity="GLOBAL_VARIABLE,LOCAL_VARIABLE" visibility="ANY" specifier="CONST" prefix="k" style="PASCAL_CASE" suffix="" />
     </rules>
   </Objective-C-extensions>
-  <clangFormatSettings>
-    <option name="ENABLED" value="true" />
-  </clangFormatSettings>
   <codeStyleSettings language="ObjectiveC">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
