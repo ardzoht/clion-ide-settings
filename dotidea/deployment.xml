@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Remote Host (3e8f9c26-1677-4f6b-9ffc-a089ef2345e0)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/lte/gateway/c/oai/" local="$PROJECT_DIR$/lte/gateway/c/oai" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/lte/gateway/c/oai/." />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
