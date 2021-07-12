@@ -1,0 +1,8 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="clion.remote.use.rsync" value="false" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e86ba6a-e3c8-4c91-b80a-1bb16e3a4fe1" name="Remote Host (5e86ba6a-e3c8-4c91-b80a-1bb16e3a4fe1)" url="http:///">
+        <fileTransfer accessType="SFTP" host="127.0.0.1" port="2222" sshConfigId="7997ff56-cb9e-4009-89c6-20771ff1609e" sshConfig="vagrant@127.0.0.1:2222 key" keyPair="true" />
+      </webServer>
+    </option>
+  </component>
+</application>
