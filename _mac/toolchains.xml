@@ -1,0 +1,7 @@
+<application>
+  <component name="CPPToolchains" version="6">
+    <toolchains detectedVersion="5">
+      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="5e86ba6a-e3c8-4c91-b80a-1bb16e3a4fe1" sshConfigName="vagrant@127.0.0.1:2222 key" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
+    </toolchains>
+  </component>
+</application>
