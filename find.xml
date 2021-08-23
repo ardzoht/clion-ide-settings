@@ -7,5 +7,6 @@
     <mask>*.h</mask>
     <mask>*.c</mask>
     <mask>*.yml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
