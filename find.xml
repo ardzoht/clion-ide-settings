@@ -10,8 +10,8 @@
     <mask>*.ym</mask>
     <mask>*.yml</mask>
     <mask>*.txt</mask>
-    <mask>*.cpp</mask>
     <mask>*.c</mask>
     <mask>*.h</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>
