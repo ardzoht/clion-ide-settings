@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.c" />
+    <option name="FILE_MASK" value="*.mk" />
     <mask>.c</mask>
     <mask>*.py</mask>
     <mask>*.ym</mask>
@@ -14,5 +14,6 @@
     <mask>*.h</mask>
     <mask>*.cpp</mask>
     <mask>*.c</mask>
+    <mask>*.mk</mask>
   </component>
 </application>
