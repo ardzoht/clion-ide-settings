@@ -15,5 +15,6 @@
     <mask>*.cpp</mask>
     <mask>*.v1.yml</mask>
     <mask>*.h</mask>
+    <mask>*.go</mask>
   </component>
 </application>
